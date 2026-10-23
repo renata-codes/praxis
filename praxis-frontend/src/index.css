@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  background: #dfeaf7;
+  font-family: Tahoma, Verdana, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}

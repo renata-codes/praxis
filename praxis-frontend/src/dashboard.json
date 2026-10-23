@@ -1,0 +1,87 @@
+{
+  "hero": {
+    "titulo": "Praxis",
+    "subtitulo": "Transformando impacto em experiência",
+    "frase": "Experiência não é exigida. Experiência é conquistada através da ação."
+  },
+
+  "estatisticas": {
+    "participantes": 128,
+    "ongs": 27,
+    "missoesAtivas": 34,
+    "xpGerado": 12500,
+    "horasImpacto": 890
+  },
+
+  "feed": [
+    {
+      "usuario": "Renata",
+      "acao": "Concluiu API para ONG Educar",
+      "xp": 500,
+      "tempo": "há 2 horas"
+    },
+    {
+      "usuario": "João",
+      "acao": "Concluiu Dashboard de Doações",
+      "xp": 250,
+      "tempo": "há 5 horas"
+    },
+    {
+      "usuario": "Maria",
+      "acao": "Entrou na ONG Amigos da Leitura",
+      "xp": 50,
+      "tempo": "há 8 horas"
+    }
+  ],
+
+  "ranking": [
+    {
+      "posicao": 1,
+      "nome": "Renata",
+      "xp": 4500,
+      "medalha": "🥇"
+    },
+    {
+      "posicao": 2,
+      "nome": "João",
+      "xp": 3200,
+      "medalha": "🥈"
+    },
+    {
+      "posicao": 3,
+      "nome": "Maria",
+      "xp": 2800,
+      "medalha": "🥉"
+    }
+  ],
+
+  "ongsDestaque": [
+    {
+      "nome": "Instituto Esperança",
+      "missoesAbertas": 12
+    },
+    {
+      "nome": "Amigos da Leitura",
+      "missoesAbertas": 8
+    },
+    {
+      "nome": "Verde para Todos",
+      "missoesAbertas": 5
+    }
+  ],
+
+  "missoes": [
+    {
+      "titulo": "Criar Landing Page",
+      "xp": 250
+    },
+    {
+      "titulo": "Dashboard de Doações",
+      "xp": 300
+    },
+    {
+      "titulo": "API Java Spring Boot",
+      "xp": 500
+    }
+  ]
+}
